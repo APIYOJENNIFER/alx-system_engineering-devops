@@ -7,4 +7,5 @@
 7. Add execute permission to the owner and the group owner, and read permission to other users, to the file
 8. Add execute permission to  the owner, group, and others. No commas
 9. Set no permission to owner and group, but all permissions to others
-10. Set the mode of a file 
+10. Set the mode of a file
+13. Create a dirctory with permission 
