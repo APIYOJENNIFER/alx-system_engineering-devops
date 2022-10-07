@@ -11,4 +11,5 @@
 11. Set the mode of a file same as a different file's mode
 12. Add execute permission to all subdirectories
 13. Create a directory with permission
-14. Change the group owner 
+14. Change the group owner
+15. Change owner to vincent and group to staff for all files 
