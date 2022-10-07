@@ -8,6 +8,7 @@
 8. Add execute permission to  the owner, group, and others. No commas
 9. Set no permission to owner and group, but all permissions to others
 10. Set the mode of a file
-11. Add execute permission to all subdirectories
+11. Set the mode of a file same as a different file's mode
+12. Add execute permission to all subdirectories
 13. Create a directory with permission
 14. Change the group owner 
