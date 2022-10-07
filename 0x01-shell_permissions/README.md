@@ -12,4 +12,5 @@
 12. Add execute permission to all subdirectories
 13. Create a directory with permission
 14. Change the group owner
-15. Change owner to vincent and group to staff for all files 
+15. Change owner to vincent and group to staff for all files
+16. Change owner and group for symbolic link 
