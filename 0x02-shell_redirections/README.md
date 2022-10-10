@@ -16,6 +16,6 @@
 16.Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17.Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 18.
-19.
+19.Replace all characters A and c from input to Z and e respectively
 20.Remove letter(s) from input
 21. Reverse an input
