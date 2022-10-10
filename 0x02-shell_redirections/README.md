@@ -6,3 +6,5 @@
 6. Display the first 10 lines of /etc/passwd
 7. Display the third line of the file iacta
 8. Create a file with specific name
+9.
+10. Write into a file the result of a command
