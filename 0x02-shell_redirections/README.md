@@ -17,5 +17,5 @@
 17.Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
 18.
 19.
-20.
+20.Remove letter(s) from input
 21. Reverse an input
