@@ -6,11 +6,10 @@
 5. Display the first 10 lines of /etc/passwd
 6. Display the third line of the file iacta
 7. Create a file with specific name
-8.
-9. Write into a file the result of a command
-10. Duplicate the last line of the file iacta
-11. Delete all the regular files with a .js extension present in the current directory and all its subfolders
-12.
+8. Write into a file the result of a command
+9. Duplicate the last line of the file iacta
+10. Delete all the regular files with a .js extension present in the current directory and all its subfolders
+11. Count the number of directories and subdirectories
 13.
 14. Display lines containing the pattern “root” from the file /etc/passwd
 15.Display the number of lines that contain the pattern “bin” in the file /etc/passwd
