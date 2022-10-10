@@ -8,3 +8,4 @@
 8. Create a file with specific name
 9.
 10. Write into a file the result of a command
+11. Duplicate the last line of the file iacta
