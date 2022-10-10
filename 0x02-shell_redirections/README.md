@@ -12,8 +12,8 @@
 11. Delete all the regular files with a .js extension present in the current directory and all its subfolders
 12.
 13.
-14.
-15. Display lines containing the pattern “root” from the file /etc/passwd
+14. Display lines containing the pattern “root” from the file /etc/passwd
+15.
 16.
 17.
 18.
