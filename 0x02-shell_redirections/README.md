@@ -9,3 +9,4 @@
 9.
 10. Write into a file the result of a command
 11. Duplicate the last line of the file iacta
+12. Delete all the regular files with a .js extension present in the current directory and all its subfolders
