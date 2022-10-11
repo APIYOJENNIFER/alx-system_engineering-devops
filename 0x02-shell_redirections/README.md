@@ -10,6 +10,7 @@
 9. Duplicate the last line of the file iacta
 10. Delete all the regular files with a .js extension present in the current directory and all its subfolders
 11. Count the number of directories and subdirectories
+12. Display the 10 newest files in the current directory
 13.
 14. Display lines containing the pattern “root” from the file /etc/passwd
 15.Display the number of lines that contain the pattern “bin” in the file /etc/passwd
