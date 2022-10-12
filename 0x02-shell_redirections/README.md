@@ -21,3 +21,4 @@
 20.Remove letter(s) from input
 21. Reverse an input
 22. Display all users and their home directories, sorted by users
+24. List all the files with a .gif extension in the current directory and all its sub-directories
